@@ -49,3 +49,10 @@ Aplikasi ini merupakan sistem informasi manajemen asrama yang dirancang untuk me
 32. BorderRadius
 33. BoxShadow
 34. Divider
+
+
+package
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
