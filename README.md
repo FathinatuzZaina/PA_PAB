@@ -12,3 +12,37 @@ Aplikasi ini merupakan sistem informasi manajemen asrama yang dirancang untuk me
 5. Pencatatan keuangan
 
 #### Widget
+1. Scaffold
+2. Container
+3. Column
+4. Row
+5. Expanded
+6. Flexible
+7. Padding
+8. SizedBox
+9. Center
+10. CustomScrollView
+11. SliverAppBar
+12. SliverToBoxAdapter
+13. ListView.separated
+14. RefreshIndicator
+15. TextField
+16. TextFormField
+17. DropdownButtonFormField
+18. Form
+19. ElevatedButton
+20. OutlinedButton
+21. FloatingActionButton.extended
+22. TextButton
+23. IconButton
+24. SnackBar
+25. CircularProgressIndicator
+26. AlertDialog
+27. showDialog
+28. showModalBottomSheet
+29. Text
+30. Icon
+31. BoxDecoration
+32. BorderRadius
+33. BoxShadow
+34. Divider
