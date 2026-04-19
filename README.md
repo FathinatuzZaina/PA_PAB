@@ -12,7 +12,15 @@ Aplikasi ini merupakan sistem informasi manajemen asrama yang dirancang untuk me
 5. Buat Tagihan
 6. Tambah Penghuni
 7. Pencatatan Inventaris
-8. Pencatatan keuangan
+8. Keuangan Asrama
+9. Tambah Transaksi
+10. Lupa kata sandi
+11. Pencarian
+12. Filter
+13. Kelola Iuran
+14. Kelola Laporan
+15. Data Penghuni
+16. Edit Profil
 
 #### Widget
 1. Scaffold
@@ -50,8 +58,7 @@ Aplikasi ini merupakan sistem informasi manajemen asrama yang dirancang untuk me
 33. BoxShadow
 34. Divider
 
-
-package
+#### Package
 | Command | Description |
 | --- | --- |
 | git status | List all new or modified files |
