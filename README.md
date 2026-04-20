@@ -8,7 +8,7 @@ Aplikasi ini merupakan sistem informasi manajemen asrama yang dirancang untuk me
 1. Login
 2. Dashboard Asrama
 3. Tambah Inventaris
-4. Laporan
+4. Laporan Keuangan
 5. Buat Tagihan
 6. Tambah Penghuni
 7. Pencatatan Inventaris
@@ -21,6 +21,8 @@ Aplikasi ini merupakan sistem informasi manajemen asrama yang dirancang untuk me
 14. Kelola Laporan
 15. Data Penghuni
 16. Edit Profil
+17. Ganti Kata Sandi
+18. Bantuan
 
 #### Widget
 1. Scaffold
@@ -61,5 +63,14 @@ Aplikasi ini merupakan sistem informasi manajemen asrama yang dirancang untuk me
 #### Package
 | Package | Description |
 | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Flutter_dotenv | Menyimpan konfigurasi seperti API key |
+| Provider | Mengatur state/data aplikasi agar terstruktur |
+| go_router | Mengatur navigasi antar halaman |
+| google_fonts | menggunakan font dari Google Fonts |
+| flutter_svg | Menampilkan gambar format SVG |
+| cached_network_image | menampilkan gambar dari internet |
+| shimmer | efek animasi loading saat data dimuat |
+| image_picker | mengambil gambar dari kamera atau galeri |
+| intl | format tanggal, waktu, dan angka |
+| shared_preferences | menyimpan data sederhana di lokal perangkat |
+| uuid | menghasilkan ID unik secara otomatis |
