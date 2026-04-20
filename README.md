@@ -25,40 +25,43 @@ Aplikasi ini merupakan sistem informasi manajemen asrama yang dirancang untuk me
 18. Bantuan
 
 #### Widget
-1. Scaffold
-2. Container
-3. Column
-4. Row
-5. Expanded
-6. Flexible
-7. Padding
-8. SizedBox
-9. Center
-10. CustomScrollView
-11. SliverAppBar
-12. SliverToBoxAdapter
-13. ListView.separated
-14. RefreshIndicator
-15. TextField
-16. TextFormField
-17. DropdownButtonFormField
-18. Form
-19. ElevatedButton
-20. OutlinedButton
-21. FloatingActionButton.extended
-22. TextButton
-23. IconButton
-24. SnackBar
-25. CircularProgressIndicator
-26. AlertDialog
-27. showDialog
-28. showModalBottomSheet
-29. Text
-30. Icon
-31. BoxDecoration
-32. BorderRadius
-33. BoxShadow
-34. Divider
+| Widget | Description |
+| ------ | ----------- |
+| Scaffold | Struktur dasar halaman (appbar, body, dll) |
+| Container| Wadah untuk menampu ng dan mengatur tampilan widget |
+| Column | Menyusun widget secara vertikal |
+| Row | Menyusun widget secara horizontal |
+| Expanded | Membuat widget mengisi ruang yang tersedia |
+| Flexible | Mengatur ukuran widget secara fleksibel dalam layout |
+| Padding | Memberi jarak di dalam widget |
+| SizedBox | Memberi ukuran atau jarak antar widget |
+| Center | Memposisikan widget di tengah |
+| CustomScrollView | Scroll view yang bisa dikustom dengan sliver |
+| SliverAppBar | AppBar yang bisa berinteraksi saat scroll |
+| SliverToBoxAdapter | Mengubah widget biasa menjadi sliver |
+| ListView.separated | List dengan pemisah antar item |
+| RefreshIndicator | Fitur pull-to-refresh |
+| TextField | Input teks sederhana |
+| TextFormField | Input teks dengan validasi form |
+| DropdownButtonFormField | Dropdown dengan fitur form |
+| Form | Wadah untuk validasi input |
+| ElevatedButton | Tombol dengan efek timbul |
+| OutlinedButton | Tombol dengan border (garis) |
+| FloatingActionButton.extended | Tombol mengambang dengan ikon + teks |
+| TextButton | Tombol tanpa background |
+| IconButton | Tombol berbentuk ikon |
+| SnackBar | Notifikasi singkat di bawah layar |
+| CircularProgressIndicator | Loading berbentuk lingkaran |
+| AlertDialog | Pop-up dialog peringatan |
+| showDialog | Menampilkan dialog ke layar |
+| showModalBottomSheet | Menampilkan panel dari bawah layar |
+| Text | Menampilkan teks |
+| Icon | Menampilkan ikon |
+| BoxDecoration | Mengatur dekorasi (warna, border, dll) |
+| BorderRadius | Mengatur sudut melengkung |
+| BoxShadow | Memberi efek bayangan |
+| Divider | Garis pemisah antar widget |
+
 
 #### Package
 | Package | Description |
